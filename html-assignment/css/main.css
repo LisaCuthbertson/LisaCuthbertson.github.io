@@ -37,3 +37,8 @@ li .beige {
 nav ul {
     list-style-type: none;
 }
+
+.hobbies ul {
+    li:nth-child(odd)
+    background-color blue
+}
