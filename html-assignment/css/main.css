@@ -34,3 +34,6 @@ li .beige {
     border-color: beige;
     background-color: beige;
 }
+nav ul {
+    list-style-type: none;
+}
