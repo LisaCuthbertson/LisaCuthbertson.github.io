@@ -26,3 +26,10 @@ a:hover {
 a:active {
     text-decoration: none;
 }
+
+li .beige {
+    border-width: 2px;
+    border-style: groove;
+    border-color: beige;
+    background-color: beige;
+}
