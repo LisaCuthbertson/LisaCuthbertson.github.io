@@ -8,3 +8,7 @@ header, footer {
 .site-title { 
     color:azure;
 }
+
+img #my-image {
+    box-shadow:0, 0 2px, black;
+}
