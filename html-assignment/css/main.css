@@ -22,7 +22,7 @@ a:visited {
 }
 a:hover {
     text-decoration: none;
-    background-color:blue;
+    /* not working background-color:limegreen;*/
 }
 a:active {
     text-decoration: none;
@@ -38,8 +38,16 @@ nav ul {
     list-style-type: none;
 }
 
-.hobbies ul {
-    li:nth-child(odd)
-    background-color blue
+.hobbies {
+    list-style-type:square;
 }
+
+/* this is not working ul:nth-child(odd) {
+    background-color:beige; */
+    
+
+
+    
+    
+
 
