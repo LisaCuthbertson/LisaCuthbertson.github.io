@@ -42,8 +42,10 @@ nav ul {
     list-style-type:square;
 }
 
-/* this is not working ul:nth-child(odd) {
-    background-color:beige; */
+.hobbies li:nth-child(odd) {
+    background-color:yellow;
+}
+     
     
 
 
